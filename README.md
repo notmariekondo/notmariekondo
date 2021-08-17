@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [rcarriga/nvim-notify](https://github.com/rcarriga/nvim-notify) - A fancy, configurable, notification manager for NeoVim (1 day ago)
+- [rcarriga/nvim-notify](https://github.com/rcarriga/nvim-notify) - A fancy, configurable, notification manager for NeoVim (2 days ago)
 - [badtuxx/DescomplicandoDocker](https://github.com/badtuxx/DescomplicandoDocker) - Descomplicando o Docker, o livro. (1 week ago)
 - [mvt-project/mvt](https://github.com/mvt-project/mvt) - MVT is a forensic tool to look for signs of infection in smartphone devices (2 weeks ago)
 - [bytedance/flutter_ume](https://github.com/bytedance/flutter_ume) - UME is an in-app debug kits platform for Flutter. Produced by Flutter Infra team of ByteDance (2 weeks ago)
@@ -21,7 +21,6 @@
 #### 👯 Check out some of my recent followers
 
 - [teteusAraujo](https://github.com/teteusAraujo)
-- [bargmannperryp](https://github.com/bargmannperryp)
 - [mrcrypster](https://github.com/mrcrypster)
 - [nonunicorn](https://github.com/nonunicorn)
 - [snowwhite-boss](https://github.com/snowwhite-boss)
