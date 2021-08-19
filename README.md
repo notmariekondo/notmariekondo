@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [timb-machine/linux-malware](https://github.com/timb-machine/linux-malware) - Tracking interesting Linux (and UNIX) malware. Send PRs (today)
-- [rcarriga/nvim-notify](https://github.com/rcarriga/nvim-notify) - A fancy, configurable, notification manager for NeoVim (3 days ago)
+- [timb-machine/linux-malware](https://github.com/timb-machine/linux-malware) - Tracking interesting Linux (and UNIX) malware. Send PRs (1 day ago)
+- [rcarriga/nvim-notify](https://github.com/rcarriga/nvim-notify) - A fancy, configurable, notification manager for NeoVim (4 days ago)
 - [badtuxx/DescomplicandoDocker](https://github.com/badtuxx/DescomplicandoDocker) - Descomplicando o Docker, o livro. (1 week ago)
 - [mvt-project/mvt](https://github.com/mvt-project/mvt) - MVT is a forensic tool to look for signs of infection in smartphone devices (2 weeks ago)
 - [bytedance/flutter_ume](https://github.com/bytedance/flutter_ume) - UME is an in-app debug kits platform for Flutter. Produced by Flutter Infra team of ByteDance (2 weeks ago)
