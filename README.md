@@ -7,6 +7,7 @@
 
 #### ⭐ Recent Stars
 
+- [praetorian-inc/gokart](https://github.com/praetorian-inc/gokart) - A static analysis tool for securing Go code (today)
 - [timb-machine/linux-malware](https://github.com/timb-machine/linux-malware) - Tracking interesting Linux (and UNIX) malware. Send PRs (1 week ago)
 - [rcarriga/nvim-notify](https://github.com/rcarriga/nvim-notify) - A fancy, configurable, notification manager for NeoVim (1 week ago)
 - [badtuxx/DescomplicandoDocker](https://github.com/badtuxx/DescomplicandoDocker) - Descomplicando o Docker, o livro. (2 weeks ago)
@@ -16,7 +17,6 @@
 - [GPUOpen-Effects/FidelityFX-FSR](https://github.com/GPUOpen-Effects/FidelityFX-FSR) - FidelityFX Super Resolution (3 weeks ago)
 - [abdoutech19/shop-app](https://github.com/abdoutech19/shop-app) - A shopping mobile application made with react native for Android.  (3 weeks ago)
 - [Kazuhito00/Tokyo2020-Pictogram-using-MediaPipe](https://github.com/Kazuhito00/Tokyo2020-Pictogram-using-MediaPipe) - MediaPipeで姿勢推定を行い、Tokyo2020オリンピック風のピクトグラムを表示するデモ (3 weeks ago)
-- [phoenixframework/vscode-phoenix](https://github.com/phoenixframework/vscode-phoenix) -  (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
