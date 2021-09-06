@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [samuelmarina/is-even](https://github.com/samuelmarina/is-even) - Is a number even? (2 days ago)
+- [samuelmarina/is-even](https://github.com/samuelmarina/is-even) - Is a number even? (3 days ago)
 - [mTvare6/hello-world.rs](https://github.com/mTvare6/hello-world.rs) - 🚀Memory safe, blazing fast, configurable, minimal hello world written in rust(🚀) in a few lines of code with few(1092🚀) dependencies🚀 (1 week ago)
 - [praetorian-inc/gokart](https://github.com/praetorian-inc/gokart) - A static analysis tool for securing Go code (1 week ago)
 - [timb-machine/linux-malware](https://github.com/timb-machine/linux-malware) - Tracking interesting Linux (and UNIX) malware. Send PRs (2 weeks ago)
