@@ -7,7 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [rammcodes/Dopefolio](https://github.com/rammcodes/Dopefolio) - Dopefolio 🔥 - Portfolio Template for Developers 🚀 (4 days ago)
+- [pwnesia/dnstake](https://github.com/pwnesia/dnstake) - DNSTake — A fast tool to check missing hosted DNS zones that can lead to subdomain takeover (today)
+- [rammcodes/Dopefolio](https://github.com/rammcodes/Dopefolio) - Dopefolio 🔥 - Portfolio Template for Developers 🚀 (5 days ago)
 - [hustvl/YOLOP](https://github.com/hustvl/YOLOP) - You Only Look Once for Panopitic Driving Perception.（https://arxiv.org/abs/2108.11250） (1 week ago)
 - [bytedance/bhook](https://github.com/bytedance/bhook) - 🔥 ByteHook(aka bhook) is a PLT hook framework for Android app. (1 week ago)
 - [samuelmarina/is-even](https://github.com/samuelmarina/is-even) - Is a number even? (2 weeks ago)
@@ -16,7 +17,6 @@
 - [timb-machine/linux-malware](https://github.com/timb-machine/linux-malware) - Tracking interesting Linux (and UNIX) malware. Send PRs (1 month ago)
 - [rcarriga/nvim-notify](https://github.com/rcarriga/nvim-notify) - A fancy, configurable, notification manager for NeoVim (1 month ago)
 - [badtuxx/DescomplicandoDocker](https://github.com/badtuxx/DescomplicandoDocker) - Descomplicando o Docker, o livro. (1 month ago)
-- [mvt-project/mvt](https://github.com/mvt-project/mvt) - MVT (Mobile Verification Toolkit) helps conducting forensics of mobile devices in order to find signs of a potential compromise. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
