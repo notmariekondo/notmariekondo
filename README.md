@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [pwnesia/dnstake](https://github.com/pwnesia/dnstake) - DNSTake — A fast tool to check missing hosted DNS zones that can lead to subdomain takeover (1 day ago)
-- [rammcodes/Dopefolio](https://github.com/rammcodes/Dopefolio) - Dopefolio 🔥 - Portfolio Template for Developers 🚀 (6 days ago)
+- [pwnesia/dnstake](https://github.com/pwnesia/dnstake) - DNSTake — A fast tool to check missing hosted DNS zones that can lead to subdomain takeover (2 days ago)
+- [rammcodes/Dopefolio](https://github.com/rammcodes/Dopefolio) - Dopefolio 🔥 - Portfolio Template for Developers 🚀 (1 week ago)
 - [hustvl/YOLOP](https://github.com/hustvl/YOLOP) - You Only Look Once for Panopitic Driving Perception.（https://arxiv.org/abs/2108.11250） (1 week ago)
 - [bytedance/bhook](https://github.com/bytedance/bhook) - 🔥 ByteHook(aka bhook) is a PLT hook framework for Android app. (1 week ago)
 - [samuelmarina/is-even](https://github.com/samuelmarina/is-even) - Is a number even? (2 weeks ago)
