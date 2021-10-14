@@ -7,9 +7,9 @@
 
 #### ⭐ Recent Stars
 
-- [nunomaduro/termwind](https://github.com/nunomaduro/termwind) - 🍃 In short, it&#39;s like Tailwind CSS, but for the PHP command-line applications.  (3 days ago)
-- [ashellunts/ffmpeg-to-webrtc](https://github.com/ashellunts/ffmpeg-to-webrtc) - Stream video from ffmpeg to web(rtc) (5 days ago)
-- [phoboslab/q1k3](https://github.com/phoboslab/q1k3) - A tiny FPS for js13k (6 days ago)
+- [nunomaduro/termwind](https://github.com/nunomaduro/termwind) - 🍃 In short, it&#39;s like Tailwind CSS, but for the PHP command-line applications.  (4 days ago)
+- [ashellunts/ffmpeg-to-webrtc](https://github.com/ashellunts/ffmpeg-to-webrtc) - Stream video from ffmpeg to web(rtc) (6 days ago)
+- [phoboslab/q1k3](https://github.com/phoboslab/q1k3) - A tiny FPS for js13k (1 week ago)
 - [Mayandev/notion-avatar](https://github.com/Mayandev/notion-avatar) - 🪄 An online tool for making notion-style avatars. (1 week ago)
 - [mmazzarolo/react-native-universal-monorepo](https://github.com/mmazzarolo/react-native-universal-monorepo) - React Native boilerplate supporting multiple platforms: Android, iOS, macOS, Windows, web, browser extensions, Electron. (1 week ago)
 - [StarRocks/starrocks](https://github.com/StarRocks/starrocks) - StarRocks is a next-gen sub-second MPP database for full analysis scenarios, including multi-dimensional analytics, real-time analytics and ad-hoc query. (1 week ago)
