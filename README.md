@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [Harsha200105/DesktopAssistant](https://github.com/Harsha200105/DesktopAssistant) - A Virtual Desktop Assistant Written in Python (today)
-- [WorkerLivesMatter/WorkingTime](https://github.com/WorkerLivesMatter/WorkingTime) -  (2 days ago)
+- [Harsha200105/DesktopAssistant](https://github.com/Harsha200105/DesktopAssistant) - A Virtual Desktop Assistant Written in Python (1 day ago)
+- [WorkerLivesMatter/WorkingTime](https://github.com/WorkerLivesMatter/WorkingTime) -  (3 days ago)
 - [nunomaduro/termwind](https://github.com/nunomaduro/termwind) - 🍃 In short, it&#39;s like Tailwind CSS, but for the PHP command-line applications.  (1 week ago)
 - [ashellunts/ffmpeg-to-webrtc](https://github.com/ashellunts/ffmpeg-to-webrtc) - Stream video from ffmpeg to web(rtc) (1 week ago)
 - [phoboslab/q1k3](https://github.com/phoboslab/q1k3) - A tiny FPS for js13k (1 week ago)
