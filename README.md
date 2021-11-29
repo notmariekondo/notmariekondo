@@ -7,9 +7,9 @@
 
 #### ⭐ Recent Stars
 
-- [klinix5/InstallerFileTakeOver](https://github.com/klinix5/InstallerFileTakeOver) -  (today)
-- [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) - Chrome extension to return youtube dislikes (4 days ago)
-- [stong/infosec-resources](https://github.com/stong/infosec-resources) - A list of helpful cybersecurity / infosec resources (6 days ago)
+- [klinix5/InstallerFileTakeOver](https://github.com/klinix5/InstallerFileTakeOver) -  (1 day ago)
+- [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) - Chrome extension to return youtube dislikes (5 days ago)
+- [stong/infosec-resources](https://github.com/stong/infosec-resources) - A list of helpful cybersecurity / infosec resources (1 week ago)
 - [bencbartlett/3D-printed-mirror-array](https://github.com/bencbartlett/3D-printed-mirror-array) - 3D-printable hexagonal mirror array capable of reflecting sunlight into arbitrary patterns (1 week ago)
 - [slidoooor/computer_book_list](https://github.com/slidoooor/computer_book_list) - 一个综合了豆瓣，goodreads综合评分的计算机书籍书单 (2 weeks ago)
 - [arthurspk/guiadevbrasil](https://github.com/arthurspk/guiadevbrasil) - GUIA EXTENSO DE PROGRAMAÇÃO: (2 weeks ago)
