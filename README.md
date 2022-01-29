@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [cybersecsi/HOUDINI](https://github.com/cybersecsi/HOUDINI) - Hundreds of Offensive and Useful Docker Images for Network Intrusion. The name says it all. (2 days ago)
+- [cybersecsi/HOUDINI](https://github.com/cybersecsi/HOUDINI) - Hundreds of Offensive and Useful Docker Images for Network Intrusion. The name says it all. (3 days ago)
 - [wmjordan/PDFPatcher](https://github.com/wmjordan/PDFPatcher) - PDF补丁丁——PDF工具箱，可以编辑书签、剪裁旋转页面、解除限制、提取或合并文档，探查文档结构，提取图片、转成图片等等 (1 week ago)
 - [Bugswriter/notflix](https://github.com/Bugswriter/notflix) - Notflix is a shell script to search and stream torrent. (1 week ago)
 - [myth984/wechat-report](https://github.com/myth984/wechat-report) - 微信聊天记录年度报告 (1 week ago)
@@ -15,7 +15,7 @@
 - [Telethon-helper/Help](https://github.com/Telethon-helper/Help) -  (2 weeks ago)
 - [inconvergent/weird](https://github.com/inconvergent/weird) - Generative art in Common Lisp (2 weeks ago)
 - [adrianhajdin/project_web3.0](https://github.com/adrianhajdin/project_web3.0) - This is a code repository for the corresponding video tutorial. In this video, we&#39;re going to build a Web 3.0 React Solidity Blockchain Application (3 weeks ago)
-- [kozmer/log4j-shell-poc](https://github.com/kozmer/log4j-shell-poc) - A Proof-Of-Concept for the recently found CVE-2021-44228 vulnerability.  (3 weeks ago)
+- [kozmer/log4j-shell-poc](https://github.com/kozmer/log4j-shell-poc) - A Proof-Of-Concept for the CVE-2021-44228 vulnerability.  (3 weeks ago)
 - [NCSC-NL/log4shell](https://github.com/NCSC-NL/log4shell) - Operational information regarding the log4shell vulnerabilities in the Log4j logging library. (4 weeks ago)
 
 #### 👯 Check out some of my recent followers
