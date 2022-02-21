@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [HughChen/qr_image](https://github.com/HughChen/qr_image) - A web app to generate valid QR codes with readable images. (1 day ago)
-- [vercel/platforms](https://github.com/vercel/platforms) - A template for site builders and low-code tools. (5 days ago)
+- [HughChen/qr_image](https://github.com/HughChen/qr_image) - A web app to generate valid QR codes with readable images. (2 days ago)
+- [vercel/platforms](https://github.com/vercel/platforms) - A template for site builders and low-code tools. (6 days ago)
 - [utkusen/wholeaked](https://github.com/utkusen/wholeaked) - a file-sharing tool that allows you to find the responsible person in case of a leakage (1 week ago)
 - [ObuchiYuki/DevToysMac](https://github.com/ObuchiYuki/DevToysMac) - DevToys For mac (1 week ago)
 - [CeInnovationTeam/OCI-Fast-Track-Linuxtips](https://github.com/CeInnovationTeam/OCI-Fast-Track-Linuxtips) - Material para evento OCI Fast Track Linuxtips (1 week ago)
