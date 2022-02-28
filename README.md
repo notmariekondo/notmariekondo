@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [yoav-lavi/melody](https://github.com/yoav-lavi/melody) - Melody is a language that compiles to regular expressions and aims to be more easily readable and maintainable (2 days ago)
-- [deepmind/code_contests](https://github.com/deepmind/code_contests) -  (5 days ago)
+- [yoav-lavi/melody](https://github.com/yoav-lavi/melody) - Melody is a language that compiles to regular expressions and aims to be more easily readable and maintainable (3 days ago)
+- [deepmind/code_contests](https://github.com/deepmind/code_contests) -  (6 days ago)
 - [HughChen/qr_image](https://github.com/HughChen/qr_image) - A web app to generate valid QR codes with readable images. (1 week ago)
 - [vercel/platforms](https://github.com/vercel/platforms) - A template for site builders and low-code tools. (1 week ago)
 - [utkusen/wholeaked](https://github.com/utkusen/wholeaked) - a file-sharing tool that allows you to find the responsible person in case of a leakage (2 weeks ago)
