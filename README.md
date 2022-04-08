@@ -7,9 +7,9 @@
 
 #### ⭐ Recent Stars
 
-- [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever. (1 day ago)
-- [r1ghtl3ft/Pancakeswap-Sniper-Bot-BSC](https://github.com/r1ghtl3ft/Pancakeswap-Sniper-Bot-BSC) - Free Sniper Bot for Pancakeswap (5 days ago)
-- [MaxLeiter/Drift](https://github.com/MaxLeiter/Drift) - Drift is a self-hostable Gist alternative and paste service (6 days ago)
+- [JD331/JD331](https://github.com/JD331/JD331) -  (today)
+- [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever. (2 days ago)
+- [MaxLeiter/Drift](https://github.com/MaxLeiter/Drift) - Drift is a self-hostable Gist alternative and paste service (1 week ago)
 - [ContractWolf/raw-logos](https://github.com/ContractWolf/raw-logos) - Raw logos for audited clients (1 week ago)
 - [ehids/ecapture](https://github.com/ehids/ecapture) - capture SSL/TLS text content without CA cert by eBPF. (1 week ago)
 - [peng-zhihui/ElectronBot](https://github.com/peng-zhihui/ElectronBot) -  (1 week ago)
