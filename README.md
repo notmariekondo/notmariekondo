@@ -7,16 +7,16 @@
 
 #### ⭐ Recent Stars
 
-- [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost (today)
-- [JD331/JD331](https://github.com/JD331/JD331) -  (2 days ago)
-- [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever. (4 days ago)
+- [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost (1 day ago)
+- [JD331/JD331](https://github.com/JD331/JD331) -  (3 days ago)
+- [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever. (5 days ago)
 - [MaxLeiter/Drift](https://github.com/MaxLeiter/Drift) - Drift is a self-hostable Gist alternative and paste service (1 week ago)
 - [ContractWolf/raw-logos](https://github.com/ContractWolf/raw-logos) - Raw logos for audited clients (1 week ago)
-- [ehids/ecapture](https://github.com/ehids/ecapture) - capture SSL/TLS text content without CA cert by eBPF. (1 week ago)
+- [ehids/ecapture](https://github.com/ehids/ecapture) - capture SSL/TLS text content without CA cert by eBPF. (2 weeks ago)
 - [peng-zhihui/ElectronBot](https://github.com/peng-zhihui/ElectronBot) -  (2 weeks ago)
 - [Arinerron/CVE-2022-0847-DirtyPipe-Exploit](https://github.com/Arinerron/CVE-2022-0847-DirtyPipe-Exploit) - A root exploit for CVE-2022-0847 (Dirty Pipe) (2 weeks ago)
 - [danielbeach/data-engineering-practice](https://github.com/danielbeach/data-engineering-practice) - Data Engineering Practice Problems (3 weeks ago)
-- [emilepetrone/financial_advice](https://github.com/emilepetrone/financial_advice) - What financial info would I have wanted to know when I was 22 and jumping into tech? (3 weeks ago)
+- [emilepetrone/financial_advice](https://github.com/emilepetrone/financial_advice) - What financial info would I have wanted to know when I was 22 and jumping into tech? (4 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
