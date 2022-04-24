@@ -9,7 +9,7 @@
 
 - [JannsenYang/dingdong-helper](https://github.com/JannsenYang/dingdong-helper) - 叮咚自动下单 并发调用接口方式 多人高峰期实战反馈10秒以内成功 自动将购物车能买的商品全部下单 只需自行编辑购物车和最后支付即可 (1 week ago)
 - [HarbourMasters/Shipwright](https://github.com/HarbourMasters/Shipwright) -  (1 week ago)
-- [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost (1 week ago)
+- [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost (2 weeks ago)
 - [JD331/JD331](https://github.com/JD331/JD331) -  (2 weeks ago)
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever. (2 weeks ago)
 - [MaxLeiter/Drift](https://github.com/MaxLeiter/Drift) - Drift is a self-hostable Gist alternative and paste service (3 weeks ago)
