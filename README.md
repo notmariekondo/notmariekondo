@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [xioacd99/study-is-wonderful](https://github.com/xioacd99/study-is-wonderful) - awesome public courses and wonderful study resource (4 days ago)
-- [peng-zhihui/Planck-Pi](https://github.com/peng-zhihui/Planck-Pi) - Super TINY &amp; Low-cost Linux Develop-Kit Based On F1C200s. (5 days ago)
+- [xioacd99/study-is-wonderful](https://github.com/xioacd99/study-is-wonderful) - awesome public courses and wonderful study resource (5 days ago)
+- [peng-zhihui/Planck-Pi](https://github.com/peng-zhihui/Planck-Pi) - Super TINY &amp; Low-cost Linux Develop-Kit Based On F1C200s. (6 days ago)
 - [JannsenYang/dingdong-helper](https://github.com/JannsenYang/dingdong-helper) - 叮咚自动下单 并发调用接口方式 多人高峰期实战反馈10秒以内成功 自动将购物车能买的商品全部下单 只需自行编辑购物车和最后支付即可 (2 weeks ago)
 - [HarbourMasters/Shipwright](https://github.com/HarbourMasters/Shipwright) -  (2 weeks ago)
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost (3 weeks ago)
