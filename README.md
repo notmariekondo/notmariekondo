@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [1Marc/todomvc-vanillajs-2022](https://github.com/1Marc/todomvc-vanillajs-2022) - Vanilla JS TodoMVC App in 2022 (1 day ago)
-- [twostraws/simple-swiftui](https://github.com/twostraws/simple-swiftui) - A collection of small SwiftUI sample projects. (5 days ago)
+- [1Marc/todomvc-vanillajs-2022](https://github.com/1Marc/todomvc-vanillajs-2022) - Vanilla JS TodoMVC App in 2022 (2 days ago)
+- [twostraws/simple-swiftui](https://github.com/twostraws/simple-swiftui) - A collection of small SwiftUI sample projects. (6 days ago)
 - [HalseySpicy/Geeker-Admin](https://github.com/HalseySpicy/Geeker-Admin) - ✨✨✨ Geeker Admin，基于 Vue3.2、TypeScript、Vite2、Pinia、Element-Plus 开源的一套后台管理框架。 (1 week ago)
 - [theVakhovskeIsTaken/holoiso](https://github.com/theVakhovskeIsTaken/holoiso) - SteamOS 3 (Holo) archiso configuration (1 week ago)
 - [facebookresearch/metaseq](https://github.com/facebookresearch/metaseq) - Repo for external large-scale work (2 weeks ago)
