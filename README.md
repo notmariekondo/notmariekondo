@@ -7,9 +7,9 @@
 
 #### ⭐ Recent Stars
 
-- [Cveinnt/LetsMarkdown.com](https://github.com/Cveinnt/LetsMarkdown.com) - 👨‍💻👩‍💻 Write Markdown. Together. (today)
-- [lucidrains/imagen-pytorch](https://github.com/lucidrains/imagen-pytorch) - Implementation of Imagen, Google&#39;s Text-to-Image Neural Network, in Pytorch (1 day ago)
-- [chvancooten/follina.py](https://github.com/chvancooten/follina.py) - POC to replicate the full &#39;Follina&#39; Office RCE vulnerability for testing purposes (4 days ago)
+- [Cveinnt/LetsMarkdown.com](https://github.com/Cveinnt/LetsMarkdown.com) - 👨‍💻👩‍💻 Write Markdown. Together. (1 day ago)
+- [lucidrains/imagen-pytorch](https://github.com/lucidrains/imagen-pytorch) - Implementation of Imagen, Google&#39;s Text-to-Image Neural Network, in Pytorch (2 days ago)
+- [chvancooten/follina.py](https://github.com/chvancooten/follina.py) - POC to replicate the full &#39;Follina&#39; Office RCE vulnerability for testing purposes (5 days ago)
 - [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application. (1 week ago)
 - [chainfeeds/RSSAggregatorforWeb3](https://github.com/chainfeeds/RSSAggregatorforWeb3) - Bootstrapping your personal Web3 info hub from more than 500 RSS Feeds. (1 week ago)
 - [AkashRajpurohit/howtoprofessionallysay](https://github.com/AkashRajpurohit/howtoprofessionallysay) - A guide for your daily &#34;professional&#34; interactions (not really) (1 week ago)
