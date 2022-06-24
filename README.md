@@ -7,9 +7,9 @@
 
 #### ⭐ Recent Stars
 
-- [sheepla/pingu](https://github.com/sheepla/pingu) - 🐧ping command but with pingu (1 day ago)
-- [JohnHammond/msdt-follina](https://github.com/JohnHammond/msdt-follina) - Codebase to generate an msdt-follina payload (5 days ago)
-- [sigoden/dufs](https://github.com/sigoden/dufs) - A file server that supports static serving, uploading, searching, accessing control, webdav... (6 days ago)
+- [sheepla/pingu](https://github.com/sheepla/pingu) - 🐧ping command but with pingu (2 days ago)
+- [JohnHammond/msdt-follina](https://github.com/JohnHammond/msdt-follina) - Codebase to generate an msdt-follina payload (6 days ago)
+- [sigoden/dufs](https://github.com/sigoden/dufs) - A file server that supports static serving, uploading, searching, accessing control, webdav... (1 week ago)
 - [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot) - Create Reddit Videos with just✨ one command ✨ (1 week ago)
 - [adalkiran/webrtc-nuts-and-bolts](https://github.com/adalkiran/webrtc-nuts-and-bolts) - A holistic way of understanding how WebRTC and its protocols run in practice, with code and detailed documentation. (1 week ago)
 - [Cveinnt/LetsMarkdown.com](https://github.com/Cveinnt/LetsMarkdown.com) - 👨‍💻👩‍💻 Write Markdown. Together. (2 weeks ago)
