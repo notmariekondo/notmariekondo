@@ -14,7 +14,7 @@
 - [achuna33/MYExploit](https://github.com/achuna33/MYExploit) - OAExploit一款基于产品的一键扫描工具。 (1 week ago)
 - [yandex/YaLM-100B](https://github.com/yandex/YaLM-100B) - Pretrained language model with 100B parameters (2 weeks ago)
 - [CatVodTVOfficial/TVBoxOSC](https://github.com/CatVodTVOfficial/TVBoxOSC) - 真的没有QQ群、QQ频道、论坛。打包分发注意开源协议，保留出处，不守规矩就不要搞。 (3 weeks ago)
-- [sheepla/pingu](https://github.com/sheepla/pingu) - 🐧ping command but with pingu (3 weeks ago)
+- [sheepla/pingu](https://github.com/sheepla/pingu) - 🐧ping command but with pingu (4 weeks ago)
 - [JohnHammond/msdt-follina](https://github.com/JohnHammond/msdt-follina) - Codebase to generate an msdt-follina payload (1 month ago)
 - [sigoden/dufs](https://github.com/sigoden/dufs) - A file server that supports static serving, uploading, searching, accessing control, webdav... (1 month ago)
 
