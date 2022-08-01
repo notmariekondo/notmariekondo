@@ -7,9 +7,9 @@
 
 #### ⭐ Recent Stars
 
-- [maxmunzel/kvass](https://github.com/maxmunzel/kvass) - a personal key-value store (4 days ago)
-- [srush/GPU-Puzzles](https://github.com/srush/GPU-Puzzles) - Solve puzzles. Learn CUDA. (5 days ago)
-- [kuprel/min-dalle](https://github.com/kuprel/min-dalle) - min(DALL·E) is a fast, minimal port of DALL·E Mini to PyTorch (6 days ago)
+- [maxmunzel/kvass](https://github.com/maxmunzel/kvass) - a personal key-value store (5 days ago)
+- [srush/GPU-Puzzles](https://github.com/srush/GPU-Puzzles) - Solve puzzles. Learn CUDA. (6 days ago)
+- [kuprel/min-dalle](https://github.com/kuprel/min-dalle) - min(DALL·E) is a fast, minimal port of DALL·E Mini to PyTorch (1 week ago)
 - [code-kern-ai/refinery](https://github.com/code-kern-ai/refinery) - The open-source data-centric IDE for NLP. Combining programmatic labeling, extensive data management and neural search capabilities. (1 week ago)
 - [MasterBin-IIAU/Unicorn](https://github.com/MasterBin-IIAU/Unicorn) - [ECCV&#39;22 Oral] Towards Grand Unification of Object Tracking (1 week ago)
 - [1357310795/MyComputerManager](https://github.com/1357310795/MyComputerManager) - 管理“此电脑”里删不掉的流氓“快捷方式”（包括侧边栏），同时可自己添加这类“快捷方式” (1 week ago)
