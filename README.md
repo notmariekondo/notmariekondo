@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [maxmunzel/kvass](https://github.com/maxmunzel/kvass) - a personal key-value store (6 days ago)
+- [maxmunzel/kvass](https://github.com/maxmunzel/kvass) - a personal key-value store (1 week ago)
 - [srush/GPU-Puzzles](https://github.com/srush/GPU-Puzzles) - Solve puzzles. Learn CUDA. (1 week ago)
 - [kuprel/min-dalle](https://github.com/kuprel/min-dalle) - min(DALL·E) is a fast, minimal port of DALL·E Mini to PyTorch (1 week ago)
 - [code-kern-ai/refinery](https://github.com/code-kern-ai/refinery) - The open-source data-centric IDE for NLP. Combining programmatic labeling, extensive data management and neural search capabilities. (1 week ago)
