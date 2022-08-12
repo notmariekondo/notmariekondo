@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [danielroe/magic-regexp](https://github.com/danielroe/magic-regexp) - A compiled-away, type-safe, readable RegExp alternative (today)
+- [danielroe/magic-regexp](https://github.com/danielroe/magic-regexp) - A compiled-away, type-safe, readable RegExp alternative (1 day ago)
 - [maxmunzel/kvass](https://github.com/maxmunzel/kvass) - a personal key-value store (2 weeks ago)
 - [srush/GPU-Puzzles](https://github.com/srush/GPU-Puzzles) - Solve puzzles. Learn CUDA. (2 weeks ago)
 - [kuprel/min-dalle](https://github.com/kuprel/min-dalle) - min(DALL·E) is a fast, minimal port of DALL·E Mini to PyTorch (2 weeks ago)
