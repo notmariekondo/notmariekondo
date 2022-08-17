@@ -7,9 +7,9 @@
 
 #### ⭐ Recent Stars
 
-- [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) -  (today)
-- [danielroe/magic-regexp](https://github.com/danielroe/magic-regexp) - A compiled-away, type-safe, readable RegExp alternative (5 days ago)
-- [maxmunzel/kvass](https://github.com/maxmunzel/kvass) - a personal key-value store (2 weeks ago)
+- [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) -  (1 day ago)
+- [danielroe/magic-regexp](https://github.com/danielroe/magic-regexp) - A compiled-away, type-safe, readable RegExp alternative (6 days ago)
+- [maxmunzel/kvass](https://github.com/maxmunzel/kvass) - a personal key-value store (3 weeks ago)
 - [srush/GPU-Puzzles](https://github.com/srush/GPU-Puzzles) - Solve puzzles. Learn CUDA. (3 weeks ago)
 - [kuprel/min-dalle](https://github.com/kuprel/min-dalle) - min(DALL·E) is a fast, minimal port of DALL·E Mini to PyTorch (3 weeks ago)
 - [code-kern-ai/refinery](https://github.com/code-kern-ai/refinery) - The open-source data-centric IDE for NLP. Combining programmatic labeling, extensive data management and neural search capabilities. (3 weeks ago)
