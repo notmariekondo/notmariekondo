@@ -7,16 +7,16 @@
 
 #### ⭐ Recent Stars
 
-- [fireship-io/flamethrower](https://github.com/fireship-io/flamethrower) - A blazingly fast router for static sites (1 day ago)
-- [mulaRahul/keyviz](https://github.com/mulaRahul/keyviz) - Keyviz is a free and open-source tool to visualize your keystrokes ⌨️ in real-time. (2 days ago)
-- [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) -  (4 days ago)
+- [moyix/fauxpilot](https://github.com/moyix/fauxpilot) - FauxPilot - an open-source GitHub Copilot server (today)
+- [fireship-io/flamethrower](https://github.com/fireship-io/flamethrower) - A blazingly fast router for static sites (2 days ago)
+- [mulaRahul/keyviz](https://github.com/mulaRahul/keyviz) - Keyviz is a free and open-source tool to visualize your keystrokes ⌨️ in real-time. (3 days ago)
+- [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) -  (5 days ago)
 - [danielroe/magic-regexp](https://github.com/danielroe/magic-regexp) - A compiled-away, type-safe, readable RegExp alternative (1 week ago)
 - [maxmunzel/kvass](https://github.com/maxmunzel/kvass) - a personal key-value store (3 weeks ago)
 - [srush/GPU-Puzzles](https://github.com/srush/GPU-Puzzles) - Solve puzzles. Learn CUDA. (3 weeks ago)
 - [kuprel/min-dalle](https://github.com/kuprel/min-dalle) - min(DALL·E) is a fast, minimal port of DALL·E Mini to PyTorch (3 weeks ago)
-- [code-kern-ai/refinery](https://github.com/code-kern-ai/refinery) - The open-source data-centric IDE for NLP. Combining programmatic labeling, extensive data management and neural search capabilities. (3 weeks ago)
+- [code-kern-ai/refinery](https://github.com/code-kern-ai/refinery) - The open-source data-centric IDE for NLP. Combining programmatic labeling, extensive data management and neural search capabilities. (4 weeks ago)
 - [MasterBin-IIAU/Unicorn](https://github.com/MasterBin-IIAU/Unicorn) - [ECCV&#39;22 Oral] Towards Grand Unification of Object Tracking (4 weeks ago)
-- [1357310795/MyComputerManager](https://github.com/1357310795/MyComputerManager) - 管理“此电脑”里删不掉的流氓“快捷方式”（包括侧边栏），同时可自己添加这类“快捷方式” (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
