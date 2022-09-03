@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [rxrw/daily_morning](https://github.com/rxrw/daily_morning) - 给别人家的女朋友发早安 (1 day ago)
+- [rxrw/daily_morning](https://github.com/rxrw/daily_morning) - 给别人家的女朋友发早安 (2 days ago)
 - [moyix/fauxpilot](https://github.com/moyix/fauxpilot) - FauxPilot - an open-source GitHub Copilot server (1 week ago)
 - [fireship-io/flamethrower](https://github.com/fireship-io/flamethrower) - A blazingly fast router for static sites (2 weeks ago)
 - [mulaRahul/keyviz](https://github.com/mulaRahul/keyviz) - Keyviz is a free and open-source tool to visualize your keystrokes ⌨️ in real-time. (2 weeks ago)
