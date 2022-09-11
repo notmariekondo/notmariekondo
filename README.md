@@ -7,10 +7,10 @@
 
 #### ⭐ Recent Stars
 
-- [total-typescript/beginners-typescript-tutorial](https://github.com/total-typescript/beginners-typescript-tutorial) - An interactive TypeScript tutorial for beginners (1 day ago)
-- [divkit/divkit](https://github.com/divkit/divkit) - DivKit is an open source Server-Driven UI (SDUI) framework. SDUI is a an emerging technique that leverage the server to build the user interfaces of their mobile app (2 days ago)
+- [total-typescript/beginners-typescript-tutorial](https://github.com/total-typescript/beginners-typescript-tutorial) - An interactive TypeScript tutorial for beginners (2 days ago)
+- [divkit/divkit](https://github.com/divkit/divkit) - DivKit is an open source Server-Driven UI (SDUI) framework. SDUI is a an emerging technique that leverage the server to build the user interfaces of their mobile app (3 days ago)
 - [rxrw/daily_morning](https://github.com/rxrw/daily_morning) - 给别人家的女朋友发早安 (1 week ago)
-- [moyix/fauxpilot](https://github.com/moyix/fauxpilot) - FauxPilot - an open-source GitHub Copilot server (2 weeks ago)
+- [moyix/fauxpilot](https://github.com/moyix/fauxpilot) - FauxPilot - an open-source GitHub Copilot server (3 weeks ago)
 - [fireship-io/flamethrower](https://github.com/fireship-io/flamethrower) - A blazingly fast router for static sites (3 weeks ago)
 - [mulaRahul/keyviz](https://github.com/mulaRahul/keyviz) - Keyviz is a free and open-source tool to visualize your keystrokes ⌨️ in real-time. (3 weeks ago)
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) -  (3 weeks ago)
