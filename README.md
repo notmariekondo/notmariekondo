@@ -7,8 +7,9 @@
 
 #### ⭐ Recent Stars
 
-- [fruiframework/frui](https://github.com/fruiframework/frui) - A developer-friendly framework for building user interfaces in Rust (3 days ago)
-- [parvardegr/sharing](https://github.com/parvardegr/sharing) - Sharing is a command-line tool to share directories and files from the CLI to iOS and Android devices without the need of an extra client app (6 days ago)
+- [YuzukiHD/YuzukiLOHCC-PRO](https://github.com/YuzukiHD/YuzukiLOHCC-PRO) - Low cost USB3.2Gen1 HDMI-USB Video Acquisition With Loop Out (Loop Out HDMI Capture Card) base on MS2130 &amp; MS9332 (today)
+- [fruiframework/frui](https://github.com/fruiframework/frui) - A developer-friendly framework for building user interfaces in Rust (4 days ago)
+- [parvardegr/sharing](https://github.com/parvardegr/sharing) - Sharing is a command-line tool to share directories and files from the CLI to iOS and Android devices without the need of an extra client app (1 week ago)
 - [jzimmerman/langcc](https://github.com/jzimmerman/langcc) - langcc: A Next-Generation Compiler Compiler (1 week ago)
 - [cloudflare/workerd](https://github.com/cloudflare/workerd) - The JavaScript / Wasm runtime that powers Cloudflare Workers (1 week ago)
 - [hasherezade/pe-bear](https://github.com/hasherezade/pe-bear) - Portable Executable reversing tool with a friendly GUI  (2 weeks ago)
@@ -16,7 +17,6 @@
 - [ashawkey/stable-dreamfusion](https://github.com/ashawkey/stable-dreamfusion) - A pytorch implementation of text-to-3D dreamfusion, powered by stable diffusion. (2 weeks ago)
 - [BishopFox/cloudfox](https://github.com/BishopFox/cloudfox) - Automating situational awareness for cloud penetration tests. (3 weeks ago)
 - [bulwarkid/virtual-fido](https://github.com/bulwarkid/virtual-fido) - A Virtual FIDO2 USB Device (3 weeks ago)
-- [liyupi/yulegeyu](https://github.com/liyupi/yulegeyu) - 羊了个羊纯前端实现版【鱼了个鱼】，自定义关卡&#43;图案&#43;无限道具，可在线玩：https://yulegeyu.cn (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
