@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [google/prompt-to-prompt](https://github.com/google/prompt-to-prompt) -  (5 days ago)
+- [google/prompt-to-prompt](https://github.com/google/prompt-to-prompt) -  (6 days ago)
 - [cisagov/RedEye](https://github.com/cisagov/RedEye) - RedEye is a visual analytic tool supporting Red &amp; Blue Team operations (1 week ago)
 - [YuzukiHD/YuzukiLOHCC-PRO](https://github.com/YuzukiHD/YuzukiLOHCC-PRO) - Low cost USB3.2Gen1 HDMI-USB Video Acquisition With Loop Out (Loop Out HDMI Capture Card) base on MS2130 &amp; MS9332 (1 week ago)
 - [fruiframework/frui](https://github.com/fruiframework/frui) - A developer-friendly framework for building user interfaces in Rust (1 week ago)
