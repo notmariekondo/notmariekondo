@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [mli/autocut](https://github.com/mli/autocut) - 用文本编辑器剪视频 (3 days ago)
-- [MubertAI/Mubert-Text-to-Music](https://github.com/MubertAI/Mubert-Text-to-Music) - A simple notebook demonstrating prompt-based music generation via Mubert API (5 days ago)
+- [mli/autocut](https://github.com/mli/autocut) - 用文本编辑器剪视频 (4 days ago)
+- [MubertAI/Mubert-Text-to-Music](https://github.com/MubertAI/Mubert-Text-to-Music) - A simple notebook demonstrating prompt-based music generation via Mubert API (6 days ago)
 - [linyiLYi/pose-monitor](https://github.com/linyiLYi/pose-monitor) - “让爷康康”是一款手机 AI 应用程序，可以监测不良坐姿并进行语音提示 (1 week ago)
 - [PrismLauncher/PrismLauncher](https://github.com/PrismLauncher/PrismLauncher) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC) (1 week ago)
 - [google/prompt-to-prompt](https://github.com/google/prompt-to-prompt) -  (3 weeks ago)
