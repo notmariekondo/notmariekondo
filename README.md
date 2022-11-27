@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [diracdeltas/tweets](https://github.com/diracdeltas/tweets) - janky twitter replacement. (1 day ago)
+- [diracdeltas/tweets](https://github.com/diracdeltas/tweets) - janky twitter replacement. (2 days ago)
 - [mli/autocut](https://github.com/mli/autocut) - 用文本编辑器剪视频 (1 week ago)
 - [MubertAI/Mubert-Text-to-Music](https://github.com/MubertAI/Mubert-Text-to-Music) - A simple notebook demonstrating prompt-based music generation via Mubert API (1 week ago)
 - [linyiLYi/pose-monitor](https://github.com/linyiLYi/pose-monitor) - “让爷康康”是一款手机 AI 应用程序，可以监测不良坐姿并进行语音提示 (2 weeks ago)
