@@ -13,7 +13,7 @@
 - [openai/tiktoken](https://github.com/openai/tiktoken) -  (2 weeks ago)
 - [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) - Use ChatGPT On Wechat via wechaty (3 weeks ago)
 - [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3 (3 weeks ago)
-- [atelier-anchor/smiley-sans](https://github.com/atelier-anchor/smiley-sans) - 得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体 (4 weeks ago)
+- [atelier-anchor/smiley-sans](https://github.com/atelier-anchor/smiley-sans) - 得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体 (1 month ago)
 - [ShoufaChen/DiffusionDet](https://github.com/ShoufaChen/DiffusionDet) - PyTorch implementation of DiffusionDet (https://arxiv.org/abs/2211.09788) (1 month ago)
 - [wseagar/eight-dollars](https://github.com/wseagar/eight-dollars) - A browser extension that shows twitter blue vs real verified users (1 month ago)
 - [trungdq88/Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday) - Awesome deals on Black Friday: Apps, SaaS, Books, Courses, etc. (1 month ago)
