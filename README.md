@@ -10,7 +10,7 @@
 - [lucidrains/PaLM-rlhf-pytorch](https://github.com/lucidrains/PaLM-rlhf-pytorch) - Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture. Basically ChatGPT but with PaLM (2 weeks ago)
 - [elanmart/cbp-translate](https://github.com/elanmart/cbp-translate) -  (2 weeks ago)
 - [openai/tiktoken](https://github.com/openai/tiktoken) -  (3 weeks ago)
-- [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) - Use ChatGPT On Wechat via wechaty (3 weeks ago)
+- [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) - Use ChatGPT On Wechat via wechaty (4 weeks ago)
 - [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3 (1 month ago)
 - [atelier-anchor/smiley-sans](https://github.com/atelier-anchor/smiley-sans) - 得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体 (1 month ago)
 - [ShoufaChen/DiffusionDet](https://github.com/ShoufaChen/DiffusionDet) - PyTorch implementation of DiffusionDet (https://arxiv.org/abs/2211.09788) (1 month ago)
