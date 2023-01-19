@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [easychen/stack-roadmap](https://github.com/easychen/stack-roadmap) - 方糖全栈路线图2023，为「从螺丝钉到一人企业」补全技能栈 (today)
+- [easychen/stack-roadmap](https://github.com/easychen/stack-roadmap) - 方糖全栈路线图2023，为「从螺丝钉到一人企业」补全技能栈 (1 day ago)
 - [lucidrains/PaLM-rlhf-pytorch](https://github.com/lucidrains/PaLM-rlhf-pytorch) - Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture. Basically ChatGPT but with PaLM (3 weeks ago)
 - [elanmart/cbp-translate](https://github.com/elanmart/cbp-translate) -  (3 weeks ago)
 - [openai/tiktoken](https://github.com/openai/tiktoken) -  (3 weeks ago)
