@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [acikkaynak/afet-org](https://github.com/acikkaynak/afet-org) -  (2 days ago)
-- [Nutlope/twitterbio](https://github.com/Nutlope/twitterbio) - Generate your Twitter bio with OpenAI and Vercel Edge Functions. (5 days ago)
+- [acikkaynak/afet-org](https://github.com/acikkaynak/afet-org) -  (3 days ago)
+- [Nutlope/twitterbio](https://github.com/Nutlope/twitterbio) - Generate your Twitter bio with OpenAI and Vercel Edge Functions. (6 days ago)
 - [varunshenoy/GraphGPT](https://github.com/varunshenoy/GraphGPT) - Extrapolating knowledge graphs from unstructured text using GPT-3 🕵️‍♂️ (1 week ago)
 - [mrsked/mrsk](https://github.com/mrsked/mrsk) - Deploy web apps anywhere. (2 weeks ago)
 - [amitshekhariitbhu/go-backend-clean-architecture](https://github.com/amitshekhariitbhu/go-backend-clean-architecture) - A Go (Golang) Backend Clean Architecture project with Gin, MongoDB, JWT Authentication Middleware, Test, and Docker. (2 weeks ago)
