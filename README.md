@@ -7,16 +7,16 @@
 
 #### ⭐ Recent Stars
 
-- [acikkaynak/afet-org](https://github.com/acikkaynak/afet-org) -  (3 days ago)
-- [Nutlope/twitterbio](https://github.com/Nutlope/twitterbio) - Generate your Twitter bio with OpenAI and Vercel Edge Functions. (6 days ago)
+- [acheong08/EdgeGPT](https://github.com/acheong08/EdgeGPT) - Reverse engineered API of Microsoft&#39;s Bing Chat (today)
+- [acikkaynak/afet-org](https://github.com/acikkaynak/afet-org) -  (4 days ago)
+- [Nutlope/twitterbio](https://github.com/Nutlope/twitterbio) - Generate your Twitter bio with OpenAI and Vercel Edge Functions. (1 week ago)
 - [varunshenoy/GraphGPT](https://github.com/varunshenoy/GraphGPT) - Extrapolating knowledge graphs from unstructured text using GPT-3 🕵️‍♂️ (1 week ago)
 - [mrsked/mrsk](https://github.com/mrsked/mrsk) - Deploy web apps anywhere. (2 weeks ago)
 - [amitshekhariitbhu/go-backend-clean-architecture](https://github.com/amitshekhariitbhu/go-backend-clean-architecture) - A Go (Golang) Backend Clean Architecture project with Gin, MongoDB, JWT Authentication Middleware, Test, and Docker. (2 weeks ago)
 - [archinetai/audio-ai-timeline](https://github.com/archinetai/audio-ai-timeline) - A timeline of the latest AI models for audio generation, starting in 2023! (2 weeks ago)
 - [Nutlope/restorePhotos](https://github.com/Nutlope/restorePhotos) - Restoring old and blurry face photos with AI. (2 weeks ago)
 - [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal (2 weeks ago)
-- [karpathy/ng-video-lecture](https://github.com/karpathy/ng-video-lecture) -  (2 weeks ago)
-- [shadcn/ui](https://github.com/shadcn/ui) - Beautifully designed components built with Radix UI and Tailwind CSS. (4 weeks ago)
+- [karpathy/ng-video-lecture](https://github.com/karpathy/ng-video-lecture) -  (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
