@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [yihong0618/bilingual_book_maker](https://github.com/yihong0618/bilingual_book_maker) - Make bilingual epub books Using AI translate (5 days ago)
+- [yihong0618/bilingual_book_maker](https://github.com/yihong0618/bilingual_book_maker) - Make bilingual epub books Using AI translate (6 days ago)
 - [Wowu/docker-rollout](https://github.com/Wowu/docker-rollout) - 🚀 Zero Downtime Deployment for Docker Compose (1 week ago)
 - [facebookresearch/llama](https://github.com/facebookresearch/llama) - Inference code for LLaMA models (1 week ago)
 - [Kanaries/pygwalker](https://github.com/Kanaries/pygwalker) - PyGWalker: Turn your pandas dataframe into a Tableau-style User Interface for visual analysis (2 weeks ago)
