@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [BuilderIO/ai-shell](https://github.com/BuilderIO/ai-shell) - A CLI that converts natural language to shell commands. (1 day ago)
-- [yoheinakajima/babyagi](https://github.com/yoheinakajima/babyagi) -  (2 days ago)
+- [BuilderIO/ai-shell](https://github.com/BuilderIO/ai-shell) - A CLI that converts natural language to shell commands. (2 days ago)
+- [yoheinakajima/babyagi](https://github.com/yoheinakajima/babyagi) -  (3 days ago)
 - [OptimalScale/LMFlow](https://github.com/OptimalScale/LMFlow) - An Extensible Toolkit for Finetuning and Inference of Large Foundation Models. Large Model for All. (1 week ago)
 - [twitter/the-algorithm-ml](https://github.com/twitter/the-algorithm-ml) - Source code for Twitter&#39;s Recommendation Algorithm (1 week ago)
 - [facebookresearch/dinov2](https://github.com/facebookresearch/dinov2) - PyTorch code and models for the DINOv2 self-supervised learning method. (1 week ago)
