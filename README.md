@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [ravenscroftj/turbopilot](https://github.com/ravenscroftj/turbopilot) - Turbopilot is an open source large-language-model based code completion engine that runs locally on CPU (1 day ago)
+- [ravenscroftj/turbopilot](https://github.com/ravenscroftj/turbopilot) - Turbopilot is an open source large-language-model based code completion engine that runs locally on CPU (2 days ago)
 - [BuilderIO/ai-shell](https://github.com/BuilderIO/ai-shell) - A CLI that converts natural language to shell commands. (1 week ago)
 - [yoheinakajima/babyagi](https://github.com/yoheinakajima/babyagi) -  (1 week ago)
 - [OptimalScale/LMFlow](https://github.com/OptimalScale/LMFlow) - An Extensible Toolkit for Finetuning and Inference of Large Foundation Models. Large Model for All. (2 weeks ago)
