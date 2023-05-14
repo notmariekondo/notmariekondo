@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [eugeneyan/open-llms](https://github.com/eugeneyan/open-llms) - 🤖 A list of open LLMs available for commercial use. (1 day ago)
+- [eugeneyan/open-llms](https://github.com/eugeneyan/open-llms) - 🤖 A list of open LLMs available for commercial use. (2 days ago)
 - [ravenscroftj/turbopilot](https://github.com/ravenscroftj/turbopilot) - Turbopilot is an open source large-language-model based code completion engine that runs locally on CPU (1 week ago)
 - [BuilderIO/ai-shell](https://github.com/BuilderIO/ai-shell) - A CLI that converts natural language to shell commands. (2 weeks ago)
 - [yoheinakajima/babyagi](https://github.com/yoheinakajima/babyagi) -  (2 weeks ago)
