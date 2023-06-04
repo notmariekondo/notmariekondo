@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [vanjs-org/van](https://github.com/vanjs-org/van) - 🍦VanJS: World&#39;s smallest reactive UI framework - Everyone can build a useful UI app in an hour (5 days ago)
+- [vanjs-org/van](https://github.com/vanjs-org/van) - 🍦VanJS: World&#39;s smallest reactive UI framework - Everyone can build a useful UI app in an hour (6 days ago)
 - [pingdotgg/uploadthing](https://github.com/pingdotgg/uploadthing) - File uploads for modern web devs (1 week ago)
 - [iryna-kondr/scikit-llm](https://github.com/iryna-kondr/scikit-llm) - Seamlessly integrate powerful language models like ChatGPT into scikit-learn for enhanced text analysis tasks. (1 week ago)
 - [NotJoeMartinez/yt-fts](https://github.com/NotJoeMartinez/yt-fts) - Youtube Full Text Search - Search all of a YouTube channel&#39;s subtitles from the command line  (1 week ago)
