@@ -7,7 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [princeton-vl/infinigen](https://github.com/princeton-vl/infinigen) - Infinite Photorealistic Worlds using Procedural Generation (1 day ago)
+- [s0md3v/sd-webui-roop](https://github.com/s0md3v/sd-webui-roop) - roop extension for StableDiffusion web-ui (today)
+- [princeton-vl/infinigen](https://github.com/princeton-vl/infinigen) - Infinite Photorealistic Worlds using Procedural Generation (2 days ago)
 - [facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft) - Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning. (1 week ago)
 - [SysCV/sam-hq](https://github.com/SysCV/sam-hq) - Segment Anything in High Quality (1 week ago)
 - [princeton-nlp/tree-of-thought-llm](https://github.com/princeton-nlp/tree-of-thought-llm) - Official Implementation of &#34;Tree of Thoughts: Deliberate Problem Solving with Large Language Models&#34; (2 weeks ago)
@@ -16,7 +17,6 @@
 - [vanjs-org/van](https://github.com/vanjs-org/van) - 🍦VanJS: World&#39;s smallest reactive UI framework - Everyone can build a useful UI app in an hour (1 month ago)
 - [pingdotgg/uploadthing](https://github.com/pingdotgg/uploadthing) - File uploads for modern web devs (1 month ago)
 - [iryna-kondr/scikit-llm](https://github.com/iryna-kondr/scikit-llm) - Seamlessly integrate powerful language models like ChatGPT into scikit-learn for enhanced text analysis tasks. (1 month ago)
-- [NotJoeMartinez/yt-fts](https://github.com/NotJoeMartinez/yt-fts) - Youtube Full Text Search - Search all of a YouTube channel&#39;s subtitles from the command line  (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
