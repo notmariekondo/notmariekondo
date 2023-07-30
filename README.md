@@ -7,10 +7,10 @@
 
 #### ⭐ Recent Stars
 
-- [shroominic/codeinterpreter-api](https://github.com/shroominic/codeinterpreter-api) - Open source implementation of the ChatGPT Code Interpreter 👾 (1 day ago)
-- [SebLague/Chess-Challenge](https://github.com/SebLague/Chess-Challenge) - https://youtu.be/iScy18pVR58 (3 days ago)
-- [mazzzystar/Queryable](https://github.com/mazzzystar/Queryable) - Run OpenAI&#39;s CLIP model on iOS to search photos. (4 days ago)
-- [junhoyeo/threads-api](https://github.com/junhoyeo/threads-api) - Unofficial, Reverse-Engineered Node.js/TypeScript client for Meta&#39;s Threads. Supports Read and Write. Web UI Included. (5 days ago)
+- [shroominic/codeinterpreter-api](https://github.com/shroominic/codeinterpreter-api) - Open source implementation of the ChatGPT Code Interpreter 👾 (2 days ago)
+- [SebLague/Chess-Challenge](https://github.com/SebLague/Chess-Challenge) - https://youtu.be/iScy18pVR58 (4 days ago)
+- [mazzzystar/Queryable](https://github.com/mazzzystar/Queryable) - Run OpenAI&#39;s CLIP model on iOS to search photos. (5 days ago)
+- [junhoyeo/threads-api](https://github.com/junhoyeo/threads-api) - Unofficial, Reverse-Engineered Node.js/TypeScript client for Meta&#39;s Threads. Supports Read and Write. Web UI Included. (6 days ago)
 - [InternLM/InternLM](https://github.com/InternLM/InternLM) - InternLM has open-sourced a 7 billion parameter base model, a chat model tailored for practical scenarios and the training system. (2 weeks ago)
 - [0xpayne/gpt-migrate](https://github.com/0xpayne/gpt-migrate) - Easily migrate your codebase from one framework or language to another. (2 weeks ago)
 - [ChaoningZhang/MobileSAM](https://github.com/ChaoningZhang/MobileSAM) - This is the official code for MobileSAM project that makes SAM lightweight for mobile applications and beyond! (3 weeks ago)
