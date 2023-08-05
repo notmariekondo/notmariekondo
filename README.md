@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [fabian-hiller/valibot](https://github.com/fabian-hiller/valibot) - The modular and type safe schema library for validating structural data 🤖 (2 days ago)
+- [fabian-hiller/valibot](https://github.com/fabian-hiller/valibot) - The modular and type safe schema library for validating structural data 🤖 (3 days ago)
 - [shroominic/codeinterpreter-api](https://github.com/shroominic/codeinterpreter-api) - Open source implementation of the ChatGPT Code Interpreter 👾 (1 week ago)
 - [SebLague/Chess-Challenge](https://github.com/SebLague/Chess-Challenge) - https://youtu.be/iScy18pVR58 (1 week ago)
 - [mazzzystar/Queryable](https://github.com/mazzzystar/Queryable) - Run OpenAI&#39;s CLIP model on iOS to search photos. (1 week ago)
