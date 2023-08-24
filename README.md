@@ -7,10 +7,10 @@
 
 #### ⭐ Recent Stars
 
-- [dvlab-research/LISA](https://github.com/dvlab-research/LISA) - Project Page for &#34;LISA: Reasoning Segmentation via Large Language Model&#34; (1 day ago)
-- [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating (2 days ago)
-- [biobootloader/mentat](https://github.com/biobootloader/mentat) - Mentat - The AI Coding Assistant  (4 days ago)
-- [lxc/incus](https://github.com/lxc/incus) - Powerful system container and virtual machine manager  (6 days ago)
+- [dvlab-research/LISA](https://github.com/dvlab-research/LISA) - Project Page for &#34;LISA: Reasoning Segmentation via Large Language Model&#34; (2 days ago)
+- [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating (3 days ago)
+- [biobootloader/mentat](https://github.com/biobootloader/mentat) - Mentat - The AI Coding Assistant  (5 days ago)
+- [lxc/incus](https://github.com/lxc/incus) - Powerful system container and virtual machine manager  (1 week ago)
 - [DarkNetEye/tor-links](https://github.com/DarkNetEye/tor-links) - Verified darknet market and darknet service links on the Tor Network (1 week ago)
 - [jamesmurdza/awesome-ai-devtools](https://github.com/jamesmurdza/awesome-ai-devtools) - Curated list of AI-powered developer tools. (1 week ago)
 - [karpathy/llama2.c](https://github.com/karpathy/llama2.c) - Inference Llama 2 in one file of pure C (2 weeks ago)
