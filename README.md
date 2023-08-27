@@ -7,10 +7,10 @@
 
 #### ⭐ Recent Stars
 
-- [dimdenGD/OldTweetDeck](https://github.com/dimdenGD/OldTweetDeck) - Returns old TweetDeck, for free! (today)
-- [facebookresearch/codellama](https://github.com/facebookresearch/codellama) - Inference code for CodeLlama models (1 day ago)
-- [dvlab-research/LISA](https://github.com/dvlab-research/LISA) - Project Page for &#34;LISA: Reasoning Segmentation via Large Language Model&#34; (4 days ago)
-- [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating (5 days ago)
+- [dimdenGD/OldTweetDeck](https://github.com/dimdenGD/OldTweetDeck) - Returns old TweetDeck, for free! (1 day ago)
+- [facebookresearch/codellama](https://github.com/facebookresearch/codellama) - Inference code for CodeLlama models (2 days ago)
+- [dvlab-research/LISA](https://github.com/dvlab-research/LISA) - Project Page for &#34;LISA: Reasoning Segmentation via Large Language Model&#34; (5 days ago)
+- [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating (6 days ago)
 - [biobootloader/mentat](https://github.com/biobootloader/mentat) - Mentat - The AI Coding Assistant  (1 week ago)
 - [lxc/incus](https://github.com/lxc/incus) - Powerful system container and virtual machine manager  (1 week ago)
 - [DarkNetEye/tor-links](https://github.com/DarkNetEye/tor-links) - Verified darknet market and darknet service links on the Tor Network (1 week ago)
