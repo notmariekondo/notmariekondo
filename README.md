@@ -7,9 +7,9 @@
 
 #### ⭐ Recent Stars
 
-- [facefusion/facefusion](https://github.com/facefusion/facefusion) - Next generation face swapper and enhancer (1 day ago)
-- [dimdenGD/OldTweetDeck](https://github.com/dimdenGD/OldTweetDeck) - Returns old TweetDeck, for free! (5 days ago)
-- [facebookresearch/codellama](https://github.com/facebookresearch/codellama) - Inference code for CodeLlama models (6 days ago)
+- [facefusion/facefusion](https://github.com/facefusion/facefusion) - Next generation face swapper and enhancer (2 days ago)
+- [dimdenGD/OldTweetDeck](https://github.com/dimdenGD/OldTweetDeck) - Returns old TweetDeck, for free! (6 days ago)
+- [facebookresearch/codellama](https://github.com/facebookresearch/codellama) - Inference code for CodeLlama models (1 week ago)
 - [dvlab-research/LISA](https://github.com/dvlab-research/LISA) - Project Page for &#34;LISA: Reasoning Segmentation via Large Language Model&#34; (1 week ago)
 - [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating (1 week ago)
 - [biobootloader/mentat](https://github.com/biobootloader/mentat) - Mentat - The AI Coding Assistant  (1 week ago)
