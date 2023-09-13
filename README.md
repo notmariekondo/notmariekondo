@@ -7,11 +7,11 @@
 
 #### ⭐ Recent Stars
 
-- [mylxsw/aidea](https://github.com/mylxsw/aidea) - AIdea 是一款支持 GPT  以及国产大语言模型通义千问、文心一言等，支持 Stable Diffusion 文生图、图生图、 SDXL1.0、超分辨率、图片上色的全能型 APP。 (3 days ago)
-- [leejet/stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp) - Stable Diffusion in pure C/C&#43;&#43; (6 days ago)
+- [mylxsw/aidea](https://github.com/mylxsw/aidea) - AIdea 是一款支持 GPT  以及国产大语言模型通义千问、文心一言等，支持 Stable Diffusion 文生图、图生图、 SDXL1.0、超分辨率、图片上色的全能型 APP。 (4 days ago)
+- [leejet/stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp) - Stable Diffusion in pure C/C&#43;&#43; (1 week ago)
 - [dnakov/little-rat](https://github.com/dnakov/little-rat) - 🐀 Small chrome extension to monitor (and optionally block) other extensions&#39; network calls (1 week ago)
 - [defog-ai/sqlcoder](https://github.com/defog-ai/sqlcoder) - SoTA LLM for converting natural language questions to SQL queries (1 week ago)
-- [facefusion/facefusion](https://github.com/facefusion/facefusion) - Next generation face swapper and enhancer (1 week ago)
+- [facefusion/facefusion](https://github.com/facefusion/facefusion) - Next generation face swapper and enhancer (2 weeks ago)
 - [dimdenGD/OldTweetDeck](https://github.com/dimdenGD/OldTweetDeck) - Returns old TweetDeck, for free! (2 weeks ago)
 - [facebookresearch/codellama](https://github.com/facebookresearch/codellama) - Inference code for CodeLlama models (2 weeks ago)
 - [dvlab-research/LISA](https://github.com/dvlab-research/LISA) - Project Page for &#34;LISA: Reasoning Segmentation via Large Language Model&#34; (3 weeks ago)
