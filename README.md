@@ -7,7 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [NetEase/tango](https://github.com/NetEase/tango) - A source code based low-code builder. Integrate low-code experience into your local development workflow seamlessly. (3 days ago)
+- [nuejs/nuejs](https://github.com/nuejs/nuejs) - Build user interfaces with cleaner code. Alternative to React, Vue, and Svelte (today)
+- [NetEase/tango](https://github.com/NetEase/tango) - A source code based low-code builder. Integrate low-code experience into your local development workflow seamlessly. (4 days ago)
 - [jzhang38/TinyLlama](https://github.com/jzhang38/TinyLlama) - The TinyLlama project is an open endeavor to pretrain a 1.1B Llama model on 3 trillion tokens. (1 week ago)
 - [QwenLM/Qwen-VL](https://github.com/QwenLM/Qwen-VL) - The official repo of Qwen-VL (通义千问-VL) chat &amp; pretrained large vision language model proposed by Alibaba Cloud. (1 week ago)
 - [mylxsw/aidea](https://github.com/mylxsw/aidea) - AIdea 是一款支持 GPT  以及国产大语言模型通义千问、文心一言等，支持 Stable Diffusion 文生图、图生图、 SDXL1.0、超分辨率、图片上色的全能型 APP。 (2 weeks ago)
@@ -16,7 +17,6 @@
 - [defog-ai/sqlcoder](https://github.com/defog-ai/sqlcoder) - SoTA LLM for converting natural language questions to SQL queries (3 weeks ago)
 - [facefusion/facefusion](https://github.com/facefusion/facefusion) - Next generation face swapper and enhancer (3 weeks ago)
 - [dimdenGD/OldTweetDeck](https://github.com/dimdenGD/OldTweetDeck) - Returns old TweetDeck, for free! (1 month ago)
-- [facebookresearch/codellama](https://github.com/facebookresearch/codellama) - Inference code for CodeLlama models (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
