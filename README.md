@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [fill3d/fill](https://github.com/fill3d/fill) - Generative fill in 3D. (1 day ago)
-- [run-llama/sec-insights](https://github.com/run-llama/sec-insights) - A real world full-stack application using LlamaIndex (5 days ago)
+- [fill3d/fill](https://github.com/fill3d/fill) - Generative fill in 3D. (2 days ago)
+- [run-llama/sec-insights](https://github.com/run-llama/sec-insights) - A real world full-stack application using LlamaIndex (6 days ago)
 - [nuejs/nuejs](https://github.com/nuejs/nuejs) - Build user interfaces with cleaner code. Alternative to React, Vue, and Svelte (1 week ago)
 - [NetEase/tango](https://github.com/NetEase/tango) - A source code based low-code builder. Integrate low-code experience into your local development workflow seamlessly. (1 week ago)
 - [jzhang38/TinyLlama](https://github.com/jzhang38/TinyLlama) - The TinyLlama project is an open endeavor to pretrain a 1.1B Llama model on 3 trillion tokens. (2 weeks ago)
