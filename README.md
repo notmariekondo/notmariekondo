@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [danielgross/localpilot](https://github.com/danielgross/localpilot) -  (today)
-- [NVIDIA/Stable-Diffusion-WebUI-TensorRT](https://github.com/NVIDIA/Stable-Diffusion-WebUI-TensorRT) - TensorRT Extension for Stable Diffusion Web UI (3 days ago)
+- [danielgross/localpilot](https://github.com/danielgross/localpilot) -  (1 day ago)
+- [NVIDIA/Stable-Diffusion-WebUI-TensorRT](https://github.com/NVIDIA/Stable-Diffusion-WebUI-TensorRT) - TensorRT Extension for Stable Diffusion Web UI (4 days ago)
 - [ArchGPT/insomnium](https://github.com/ArchGPT/insomnium) - Insomnium is a fast local API testing tool that is privacy-focused and 100% local. For testing GraphQL, REST, WebSockets and gRPC. This is a fork of Kong/insomnia (1 week ago)
 - [fill3d/fill](https://github.com/fill3d/fill) - Generative fill in 3D. (3 weeks ago)
 - [run-llama/sec-insights](https://github.com/run-llama/sec-insights) - A real world full-stack application using LlamaIndex (3 weeks ago)
