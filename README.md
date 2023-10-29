@@ -7,12 +7,12 @@
 
 #### ⭐ Recent Stars
 
-- [ErickWendel/semana-javascript-expert08](https://github.com/ErickWendel/semana-javascript-expert08) - JS Expert Week 8.0 - 🎥Pre processing videos before uploading in the browser 😏 (1 day ago)
-- [danielgross/localpilot](https://github.com/danielgross/localpilot) -  (4 days ago)
+- [ErickWendel/semana-javascript-expert08](https://github.com/ErickWendel/semana-javascript-expert08) - JS Expert Week 8.0 - 🎥Pre processing videos before uploading in the browser 😏 (2 days ago)
+- [danielgross/localpilot](https://github.com/danielgross/localpilot) -  (5 days ago)
 - [NVIDIA/Stable-Diffusion-WebUI-TensorRT](https://github.com/NVIDIA/Stable-Diffusion-WebUI-TensorRT) - TensorRT Extension for Stable Diffusion Web UI (1 week ago)
 - [ArchGPT/insomnium](https://github.com/ArchGPT/insomnium) - Insomnium is a fast local API testing tool that is privacy-focused and 100% local. For testing GraphQL, REST, WebSockets and gRPC. This is a fork of Kong/insomnia (1 week ago)
 - [fill3d/fill](https://github.com/fill3d/fill) - Generative fill in 3D. (3 weeks ago)
-- [run-llama/sec-insights](https://github.com/run-llama/sec-insights) - A real world full-stack application using LlamaIndex (4 weeks ago)
+- [run-llama/sec-insights](https://github.com/run-llama/sec-insights) - A real world full-stack application using LlamaIndex (1 month ago)
 - [nuejs/nuejs](https://github.com/nuejs/nuejs) - Build user interfaces with cleaner code. Alternative to React, Vue, and Svelte (1 month ago)
 - [NetEase/tango](https://github.com/NetEase/tango) - A source code based low-code builder. Integrate low-code experience into your local development workflow seamlessly. (1 month ago)
 - [jzhang38/TinyLlama](https://github.com/jzhang38/TinyLlama) - The TinyLlama project is an open endeavor to pretrain a 1.1B Llama model on 3 trillion tokens. (1 month ago)
