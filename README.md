@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [cbh123/narrator](https://github.com/cbh123/narrator) - David Attenborough narrates your life (1 day ago)
+- [cbh123/narrator](https://github.com/cbh123/narrator) - David Attenborough narrates your life (2 days ago)
 - [THUDM/ChatGLM3](https://github.com/THUDM/ChatGLM3) - ChatGLM3 series: Open Bilingual Chat LLMs | 开源双语对话语言模型 (1 week ago)
 - [Anil-matcha/Awesome-GPT-Store](https://github.com/Anil-matcha/Awesome-GPT-Store) - Custom GPT Store - A collection of major GPTS available in public (1 week ago)
 - [deepseek-ai/DreamCraft3D](https://github.com/deepseek-ai/DreamCraft3D) - Official implementation of DreamCraft3D: Hierarchical 3D Generation with Bootstrapped Diffusion Prior (2 weeks ago)
