@@ -7,10 +7,10 @@
 
 #### ⭐ Recent Stars
 
-- [100xdevs-cohort-2/assignments](https://github.com/100xdevs-cohort-2/assignments) -  (today)
-- [HumanAIGC/AnimateAnyone](https://github.com/HumanAIGC/AnimateAnyone) - Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation (1 day ago)
-- [magic-research/magic-animate](https://github.com/magic-research/magic-animate) - MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model (3 days ago)
-- [twostraws/Inferno](https://github.com/twostraws/Inferno) - Metal shaders for SwiftUI. (5 days ago)
+- [100xdevs-cohort-2/assignments](https://github.com/100xdevs-cohort-2/assignments) -  (1 day ago)
+- [HumanAIGC/AnimateAnyone](https://github.com/HumanAIGC/AnimateAnyone) - Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation (2 days ago)
+- [magic-research/magic-animate](https://github.com/magic-research/magic-animate) - MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model (4 days ago)
+- [twostraws/Inferno](https://github.com/twostraws/Inferno) - Metal shaders for SwiftUI. (6 days ago)
 - [flowtyone/flowty-realtime-lcm-canvas](https://github.com/flowtyone/flowty-realtime-lcm-canvas) - A realtime sketch to image demo using LCM and the gradio library.  (1 week ago)
 - [keiko233/clash-nyanpasu](https://github.com/keiko233/clash-nyanpasu) - Clash Nyanpasu! (∠・ω&lt; )⌒☆​ (1 week ago)
 - [run-llama/rags](https://github.com/run-llama/rags) - Build ChatGPT over your data, all with natural language (2 weeks ago)
