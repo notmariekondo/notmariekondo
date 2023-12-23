@@ -7,11 +7,11 @@
 
 #### ⭐ Recent Stars
 
-- [microsoft/promptbase](https://github.com/microsoft/promptbase) - All things prompt engineering (today)
-- [Nukem9/dlssg-to-fsr3](https://github.com/Nukem9/dlssg-to-fsr3) - Adds AMD FSR3 Frame Generation to games by replacing Nvidia DLSS-G Frame Generation (nvngx_dlssg). (1 day ago)
-- [kadirnar/whisper-plus](https://github.com/kadirnar/whisper-plus) - WhisperPlus: Advancing Speech-to-Text Processing 🚀 (2 days ago)
-- [100xdevs-cohort-2/assignments](https://github.com/100xdevs-cohort-2/assignments) -  (4 days ago)
-- [HumanAIGC/AnimateAnyone](https://github.com/HumanAIGC/AnimateAnyone) - Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation (5 days ago)
+- [microsoft/promptbase](https://github.com/microsoft/promptbase) - All things prompt engineering (1 day ago)
+- [Nukem9/dlssg-to-fsr3](https://github.com/Nukem9/dlssg-to-fsr3) - Adds AMD FSR3 Frame Generation to games by replacing Nvidia DLSS-G Frame Generation (nvngx_dlssg). (2 days ago)
+- [kadirnar/whisper-plus](https://github.com/kadirnar/whisper-plus) - WhisperPlus: Advancing Speech-to-Text Processing 🚀 (3 days ago)
+- [100xdevs-cohort-2/assignments](https://github.com/100xdevs-cohort-2/assignments) -  (5 days ago)
+- [HumanAIGC/AnimateAnyone](https://github.com/HumanAIGC/AnimateAnyone) - Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation (6 days ago)
 - [magic-research/magic-animate](https://github.com/magic-research/magic-animate) - MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model (1 week ago)
 - [twostraws/Inferno](https://github.com/twostraws/Inferno) - Metal shaders for SwiftUI. (1 week ago)
 - [flowtyone/flowty-realtime-lcm-canvas](https://github.com/flowtyone/flowty-realtime-lcm-canvas) - A realtime sketch to image demo using LCM and the gradio library.  (1 week ago)
