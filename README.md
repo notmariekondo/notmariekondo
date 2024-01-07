@@ -7,16 +7,16 @@
 
 #### ⭐ Recent Stars
 
-- [babaohuang/GeminiProChat](https://github.com/babaohuang/GeminiProChat) - Minimal web UI for GeminiPro. (5 days ago)
+- [successfulstudy/promptoftheyear](https://github.com/successfulstudy/promptoftheyear) - In the evolving world of Large Language Models (LLMs), crafting effective prompts has become an essential skill. That&#39;s why I&#39;ve created this collection, showcasing the most impactful prompts of the year across various intriguing domains. 🌐 (today)
+- [babaohuang/GeminiProChat](https://github.com/babaohuang/GeminiProChat) - Minimal web UI for GeminiPro. (6 days ago)
 - [gregberge/twc](https://github.com/gregberge/twc) - Create reusable React &#43; Tailwind CSS components in one line ✨ (1 week ago)
 - [microsoft/promptbase](https://github.com/microsoft/promptbase) - All things prompt engineering (2 weeks ago)
 - [Nukem9/dlssg-to-fsr3](https://github.com/Nukem9/dlssg-to-fsr3) - Adds AMD FSR 3 Frame Generation to games by replacing Nvidia DLSS-G Frame Generation (nvngx_dlssg). (2 weeks ago)
 - [kadirnar/whisper-plus](https://github.com/kadirnar/whisper-plus) - WhisperPlus: Advancing Speech-to-Text Processing 🚀 (2 weeks ago)
 - [100xdevs-cohort-2/assignments](https://github.com/100xdevs-cohort-2/assignments) -  (2 weeks ago)
-- [HumanAIGC/AnimateAnyone](https://github.com/HumanAIGC/AnimateAnyone) - Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation (2 weeks ago)
+- [HumanAIGC/AnimateAnyone](https://github.com/HumanAIGC/AnimateAnyone) - Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation (3 weeks ago)
 - [magic-research/magic-animate](https://github.com/magic-research/magic-animate) - MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model (3 weeks ago)
 - [twostraws/Inferno](https://github.com/twostraws/Inferno) - Metal shaders for SwiftUI. (3 weeks ago)
-- [flowtyone/flowty-realtime-lcm-canvas](https://github.com/flowtyone/flowty-realtime-lcm-canvas) - A realtime sketch to image demo using LCM and the gradio library.  (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
